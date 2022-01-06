@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Blue_Activator
+  - Yellow_Activator
+  - Red_Activator
+  - Green_Activator
+  - NoteBlue
+  - NoteYellow
+  - NoteRed
+  - NoteGreen
+  - NoteLong
+  - Purple_Activator
+  - UIanim
+  - Done
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 1572894777
+    locked: 0
+  - name: Top
+    uniqueID: 767714321
+    locked: 0

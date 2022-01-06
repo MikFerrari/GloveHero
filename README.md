@@ -14,5 +14,4 @@ The repository is structured as follows:
 - **MATLAB**: MATLAB scripts, functions and data used for signal acquisition from Arduino, threshold calibration, gestures labelling and classifier training
 - **Unity**: Code used to program the game (folder: *GloveHero*) and executable to launch the game (folder: *GloveBeats*)
 
-Authors
-*Crotti Matteo, Ferrari Michele, Monti Riccardo*
+Authors: *Crotti Matteo, Ferrari Michele, Monti Riccardo*

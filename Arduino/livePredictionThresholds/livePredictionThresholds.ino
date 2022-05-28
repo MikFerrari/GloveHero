@@ -79,7 +79,8 @@ const unsigned char Ntrials = 5; // N trials for each finger
 const unsigned char Ngestures = 4; // N gestures to calibrate
 const unsigned char Nthresh = 5; // N thresholds to calibrate
 
-double thresholds[Nthresh] = {683.1, 451.0,434.5, 400.4,	597.6}; // Tuned by default on Riccardo
+// double thresholds[Nthresh] = {683.1, 450.0, 434.5, 398.4,	597.6}; // Tuned by default on Riccardo
+double thresholds[Nthresh] = {783.1, 550.0, 534.5, 498.4,  697.6}; // Tuned by default on Riccardo
 
 //+++ End Define variables for signal processing +++//
 
